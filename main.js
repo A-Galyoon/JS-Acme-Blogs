@@ -1,5 +1,5 @@
 
-1. createElemWithText
+/*1. createElemWithText
 a. Receives up to 3 parameters
 b. 1st parameter is the HTML element string name to be created (h1, p, button, etc)
 c. Set a default value for the 1st parameter to “p”
